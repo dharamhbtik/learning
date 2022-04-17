@@ -1,0 +1,29 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "This is Udemy course learning ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharamhbtik/nodeJs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial",
+    "node",
+    "js",
+    "learning",
+    "nodejs",
+    "samples"
+  ],
+  "author": "Dharmendra Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharamhbtik/nodeJs/issues"
+  },
+  "homepage": "https://github.com/dharamhbtik/nodeJs#readme"
+}
